@@ -40,7 +40,7 @@ body {
 
 /* Logo */
 .site-logo {
-    max-width: 200px; /* PC boyutu */
+    max-width: 350px; /* PC boyutu */
     height: auto;
     transition: 0.3s;
 }
@@ -94,7 +94,7 @@ h1 {
 /* --- MOBİL UYUMLULUK (RESPONSIVE) --- */
 @media (max-width: 480px) {
     .site-logo {
-        max-width: 150px; /* Mobilde logoyu biraz küçült */
+        max-width: 350px; /* Mobilde logoyu biraz küçült */
     }
 
     .glass-card {
